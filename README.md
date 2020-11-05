@@ -1,2 +1,1 @@
-CPUMiner-Multi
-=============
+CPUMiner
