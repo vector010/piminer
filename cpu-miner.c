@@ -10,6 +10,9 @@
  * any later version.  See COPYING for more details.
  */
 
+/* Ripping out stuff to make this a lean mean RasPi lottery machine - Julian R. 
+*/
+
 #include <cpuminer-config.h>
 #define _GNU_SOURCE
 
